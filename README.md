@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style="color:#FFFF00;">//Cydia Project Insight Phase 1//</h1>
+<h1 style="color:#ef6b4f;">//Cydia Project Insight Phase 1//</h1>
 <p>//↘Add My Repo Here For Tweaks!↙//</p>
 <p>https://cydia.saurik.com/api/share#?source=http://theinsightfront.yourepo.com/</p>
   <p>//7 Day certificate of yalu102 beta 7 (Has SSH over Wifi YOU DO NOT NEED OPENSSH CHANGE YOUR ROOT PASSWORD!)//</p>
